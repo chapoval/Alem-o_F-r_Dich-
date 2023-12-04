@@ -1,0 +1,1 @@
+insert into alunos (nome,cpf,dataNascimento,email,senha) values (:nome,:cpf,:dataNascimento,:email,:senha)
